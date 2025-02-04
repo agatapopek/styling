@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    
+      <Card title="Hello" content="This is a card component" />
     </>
   )
 }
