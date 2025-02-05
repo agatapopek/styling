@@ -1,6 +1,6 @@
 export default function Card({title, content}){
     const cardStyle = {
-        backgroundColor: '#111111',
+        backgroundColor: '#f0f0f0',
         padding: '20px',
         borderRadius: '8px',
     }
